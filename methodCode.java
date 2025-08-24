@@ -1,4 +1,5 @@
 public class methodCode{
+    //java code
     int id;
     String name;
     public methodCode(int id,String name){
